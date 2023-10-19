@@ -1,6 +1,6 @@
 # Company X Employee Data Analysis
 
-![]
+![](employees.jpeg)
 
 ## Description
 
