@@ -6,6 +6,11 @@
 
 This repository contains an Excel file that demonstrates the application of basic formatting tools and data analysis techniques to employee data from Company X. The data analysis focuses on 20 randomly selected employees.
 
+The report consists of three worksheets:
+1. Sheet 1
+2. Sheet 2
+3. Sheet 3
+
 ## Sheet 1: Salary Analysis
 
 On the first sheet, specific formatting tools, particularly conditional formatting, have been used to analyze the salaries of the employees. This includes the identification of employees earning over $10,000, with their corresponding cells highlighted using "cell value" conditional formatting. Additionally, freelancers have been filtered out of the dataset to provide a clear representation of salaried employees.
@@ -22,3 +27,5 @@ The third sheet of the workbook is dedicated to analyzing employee names based o
 # Contributors
 
 Theophilus
+
+![](thank you)
