@@ -1,5 +1,7 @@
 # Company X Employee Data Analysis
 
+![]
+
 ## Description
 
 This repository contains an Excel file that demonstrates the application of basic formatting tools and data analysis techniques to employee data from Company X. The data analysis focuses on 20 randomly selected employees.
