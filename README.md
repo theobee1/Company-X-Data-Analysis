@@ -28,4 +28,4 @@ The third sheet of the workbook is dedicated to analyzing employee names based o
 
 Data Enthusiast
 
-![](thankyou)
+![](thank_you.jpeg)
