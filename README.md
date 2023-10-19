@@ -26,6 +26,6 @@ The third sheet of the workbook is dedicated to analyzing employee names based o
 
 # Contributors
 
-Theophilus
+Data Enthusiast
 
-![](thank you.webp)
+![](thank you.jpeg)
