@@ -23,7 +23,7 @@ The second sheet focuses on the separation of employee full names into first and
 
 The third sheet of the workbook is dedicated to analyzing employee names based on specific criteria. Here, employee full names starting with the letter "E" have been highlighted using the "Cell value begins with..." conditional formatting feature. Moreover, the conditional formatting rules have been set to visually emphasize the maximum (highest) and minimum (lowest) salaries in the salary array. The maximum salary is highlighted in green, while the minimum salary is highlighted in red, allowing for easy identification and comparison.
 
-![](thank you.jpeg)
+![](thankyou.jpeg)
 
 # Contributors
 
